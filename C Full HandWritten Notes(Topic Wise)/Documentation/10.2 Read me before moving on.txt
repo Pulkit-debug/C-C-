@@ -1,0 +1,1 @@
+At this point either you can try out Project 2 or you can complete the dynamic memory allocation first and then do the project your choice ;>

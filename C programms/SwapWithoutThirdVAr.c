@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    int a, b;
+    printf("Enter two numbers to swap : ");
+    scanf("%d %d", &a, &b);
+
+    a = a+b;
+    b = a-b;
+    a = a-b;
+    printf("AFter Swap numbers are : %d and %d", a, b);
+}
